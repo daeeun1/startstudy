@@ -1,0 +1,17 @@
+package com.ssafy.day04;
+
+public class GenericSub extends Generic<Integer> {
+
+	@Override
+	public void setI(Integer i) {
+		// TODO Auto-generated method stub
+		super.setI(i);
+	}
+
+	@Override
+	public Integer getI() {
+		// TODO Auto-generated method stub
+		return super.getI();
+	}
+	
+}

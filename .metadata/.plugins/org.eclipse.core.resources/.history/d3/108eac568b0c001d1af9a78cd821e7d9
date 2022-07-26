@@ -1,0 +1,12 @@
+package com.ssafy.day04;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		GenericSub<G> g = new GenericSub<>();
+		g.setI(1);
+		Object i = g.getI();
+	}
+
+}

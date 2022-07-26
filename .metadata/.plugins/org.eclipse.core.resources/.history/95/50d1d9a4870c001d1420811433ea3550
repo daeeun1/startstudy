@@ -1,0 +1,8 @@
+package com.ssafy.day04;
+
+public class Snippet {
+	public static void main(String[] args) {
+		github.com/naver/d2codingfont
+	}
+}
+

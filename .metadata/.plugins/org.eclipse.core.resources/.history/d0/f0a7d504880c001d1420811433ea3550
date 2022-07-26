@@ -1,0 +1,13 @@
+package com.ssafy.day04;
+
+public class Generic {
+	int i;
+	
+	public void setI(int i) {
+		this.i = i;
+	}
+	
+	public int getI() {
+		return i;
+	}
+}

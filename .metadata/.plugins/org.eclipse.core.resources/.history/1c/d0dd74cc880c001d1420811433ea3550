@@ -1,0 +1,9 @@
+package com.ssafy.day04;
+
+public abstract class Generic<G> {
+	G i;
+	
+	public abstract setI(G i) ;
+	
+	public G getI() ;	
+}

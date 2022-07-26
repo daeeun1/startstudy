@@ -1,0 +1,13 @@
+package com.ssafy.day04;
+
+public class Main {
+
+	public static void main(String[] args) {
+	
+	Generic<Integer> g = new Generic<>();
+	g.setI(1);
+	Object i = g.getI();
+	}
+	
+
+}
